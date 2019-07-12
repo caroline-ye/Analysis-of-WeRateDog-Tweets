@@ -1,2 +1,2 @@
 # Analysis-of-WeRateDog-Tweets
-Udacity Data Analyst Nanodegreee
+Data Wrangling project for Udacity Data Analyst Nanodegree 
